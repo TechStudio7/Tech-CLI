@@ -1,0 +1,17 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env
+
+# System/IDE files
+.DS_Store
+.vscode/
+.idea/
+
+# Your project-specific assets (if you don't want them tracked)
+# assets/local_references/

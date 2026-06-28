@@ -1,0 +1,7 @@
+# Ensure consistent line endings for your source code
+*.py text eol=lf
+*.md text
+*.txt text
+
+# Force your ASCII art and text files to be treated as text
+*.txt -diff
