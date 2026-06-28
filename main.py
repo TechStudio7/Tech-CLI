@@ -55,10 +55,11 @@ def run_cli():
             print("[bold white]Available Commands:[/bold white]")
             print("  [cyan]info[/cyan]        - Displays application info")
             print("  [cyan]os info[/cyan]     - Displays operating system details")
-            print("  [cyan]device name[/cyan] - Displays the hostname of the machine")
+            print("  [red]device name (Removed)[/red] - Displays the hostname of the machine, Deprecated")
             print("  [cyan]exit[/cyan]        - Closes the application")
             print("  [cyan]help, commands[/cyan] - Displays available commands")
-            print("  [green]ralsei[/green] - Displays ASCII art of Ralsei")
+            print("  [green]ralsei[/green]    - Displays ASCII art of Ralsei")
+            print("  [blue]C, c[/blue]        - Displays ASCII art of the C programming language")
         elif command == "ralsei":
             print("""
         &&&&      &&&&        
